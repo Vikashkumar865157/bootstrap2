@@ -1,0 +1,279 @@
+body{
+    background: green;
+}
+.nav-link:hover{
+    color:blue !important;
+}
+.nav-link{
+    background: white !important;
+    margin-left: 20px;
+}
+.top{
+background: white;
+padding: 15px;
+}
+.tag{
+    color: white;
+    background-image: url('back.jpeg');
+    padding: 180px;
+    height: 100%;
+    width: 100%;
+
+}
+.button a{
+    border: 1px solid  rgb(250, 246, 246);
+    border-radius: 100px;
+    padding: 10px 35px;
+    outline: none;
+    color:  white;
+    font-size: 1rem;
+    font-weight: 400px;
+    line-height: 1.4px;
+}
+.button a:hover{
+    color: #05A9D7;
+    background: white;
+    text-decoration: none;
+    box-shadow: 0,0,20px 0 rgba(0,0,0,3);
+}
+.gp{
+    text-align: center;
+    padding: 100px;
+    background: white;
+}
+.gp h2{
+    font-size: 40px;
+}
+.gt{
+    background: rgb(196, 189, 189);
+    padding: 100px;
+}
+.extra-div{
+    background:rgb(196, 189, 189);
+    border: medium none;
+    outline: none;
+    font-weight: 400px;
+    margin: 20px 0;
+
+}
+.extra-div a{
+    font-size: 30px;
+
+}
+.extra-div:hover{
+    box-shadow: 0 0 20px 0 rgba(0,0,0,3);
+    transform: translateX(-20px);
+}
+.extra-div p{
+    margin-left:-5px;
+    text-align: justify;
+}
+
+.extra-div1{
+    background:rgb(196, 189, 189);
+    border: medium none;
+    outline: none;
+    font-weight: 400px;
+    margin: 20px 0;
+}
+.extra-div1 p{
+    margin-left: -5px;
+    text-align: justify;
+}
+
+.extra-div1:hover{
+    box-shadow: 0 0 20px 0 rgba(0,0,0,3);
+    transform: translateX(-20px);
+
+}
+.extra-div1 a{
+    font-size: 30px;
+}
+.pic{
+    background: white;
+    padding: 100px;
+}
+.service-div{
+    margin-top: 30px;
+}
+.service-div h1{
+    font-size: 50px;
+    margin-left: 50px;
+}
+.service-div h5{
+    margin-left: 50px;
+}
+.icon-div a{
+    font-size: 40px;
+}
+.icon-div2:hover{
+    box-shadow: 0 0 20px 0 rgba(0,0,0,3);
+}
+.icon-div2 {
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.gpa{
+    background:white;
+    padding:80px ;
+}
+.gpa1{
+    background-image: url(lg.png);
+    border-radius: 10px;
+    text-align: center;
+    padding: 50px 0;
+}
+.gpa1 a:link, .gpa1 a:visited{
+    text-align: center;
+    border: 1px solid  rgb(0, 0, 0);
+    background: rgb(123, 211, 226);
+    padding:10px 25px;
+    text-decoration: none;
+    margin:10px auto;
+}
+.gpa1 a:hover{
+    background:rgb(53, 53, 158);
+    color:white;
+    border-radius: 100px;
+}
+.gpa1 h1{
+    text-align: center;
+}
+.fg{
+    padding: 100px;
+    background: white;
+}
+.fg1{
+    margin-left: -80px;
+}
+.fg2 h1{
+    font-size:45px;
+    margin-top: -80px;
+    margin-left: 5px;
+}
+.fg2 p{
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: justify;
+    margin-left: 15px;
+}
+.fg2{
+    margin-top: 180px;
+}
+.fg2 a{
+    font-size:20px ;
+}
+.fg3 a{
+    margin-top: 10px;
+}
+.fg3 i{
+    margin-left:20px ;
+}
+.fg3 a:hover{
+    text-decoration: none;
+}
+.vk{
+    padding: 100px;
+    background: white;
+}
+.vk p{
+    padding-top: 10px;
+    font-size: 19px;
+}
+.dj-div{
+    margin-top: 30px;
+}
+.dj-div h4{
+    font-size: 18px;
+}
+.dj-div h5{
+    margin-top:80px ;
+}
+.gta{
+    background:rgb(239, 230, 230);
+    padding: 50px;
+}
+.gpaimg{
+    border-radius: 50%;
+    width: 100%;
+}
+.gta h4:hover{
+    color: blue;
+}
+.gta h4{
+    font-size: 14px;
+}
+
+.space{
+    background: white;
+    padding: 50px;
+}
+.bouns{
+    background: #102136;
+    padding: 100px;
+    color: white;
+    text-align: center;
+}
+.bouns1{
+    background-image: url('back.jpeg' );
+    border-radius: 10px;
+    text-align: center;
+    margin-top: -200px;
+    padding: 50px;
+}
+.bouns a{
+    border: 2px solid  rgb(0, 0, 0);
+    outline: none;
+    background: rgb(62, 178, 198);
+    border-radius: 10px;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 9px 20px;
+    color: white;
+}  
+.bouns h1{
+    padding: 40px 0 0 0;
+}
+.bouns h4:hover{
+    background:rgb(37, 93, 154);
+    color:white;
+}
+.last{
+    background:#102136;
+    padding: 20px;
+    color:#5E7086;
+}
+.last1{
+    margin-top: 50px;
+}
+.last h5{
+    color: white;
+}
+.last p{
+margin-left: -200px;
+}
+.last i{
+    margin-top: 20px;
+}
+.last ul li{
+    margin-left: -20px;
+    list-style: none;
+}
+.desiner{
+    background:#102136 ;
+    padding: 30px;
+    color:white;
+}
+.desiner h5{
+    text-align: center;
+    background: linear-gradient(to right, red,yellow);
+    font-size: 30px;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+@media screen and (max-width:1000px){
+    .bouns1{
+        margin:0;
+        padding: 0;
+    }
+}
